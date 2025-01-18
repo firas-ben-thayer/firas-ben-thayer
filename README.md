@@ -1,11 +1,11 @@
-## Hi there I'm Firas Ben Thayer!👋
+# Hi there 👋  
+I'm Firas Ben Thayer!
 
-🚀 AI & Automation Engineer with a passion for developing innovative solutions
+I'm a Master's student specializing in **AI & Automation** at Högskolan Väst. I have expertise in **Python**, **machine learning**, and **deep learning** and enjoy working on projects that solve real-world problems. I also contribute to **open source** and professional networking initiatives.
 
-🎓 MSc in Artificial Intelligence & Automation | Project Manager | Student Representative
+---
 
-💻 Tech Stack: Python, SQL, Machine Learning, Deep Learning, Docker, Flask, Linux
-
-📚 Always Learning: Enthusiastic about continuous learning and staying updated with the latest tech trends.
-
-🤝 Open to Collaborations: Interested in collaborating on exciting projects and open to new opportunities.
+## 🔗 Connect With Me  
+You can also find me on:  
+- [**GitHub**](https://github.com/firas-ben-thayer)  
+- [**LinkedIn**](https://www.linkedin.com/in/firas-ben-thayer) 
