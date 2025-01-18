@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Firas Ben Thayer!👋
 
-<!--
-**firas-ben-thayer/firas-ben-thayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<
+🚀 AI & Automation Engineer with a passion for developing innovative solutions
 
-Here are some ideas to get you started:
+🎓 MSc in Artificial Intelligence & Automation | Project Manager | Student Representative
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack: Python, SQL, Machine Learning, Deep Learning, Docker, Flask, Linux
+
+📚 Always Learning: Enthusiastic about continuous learning and staying updated with the latest tech trends.
+
+🤝 Open to Collaborations: Interested in collaborating on exciting projects and open to new opportunities.
+>
