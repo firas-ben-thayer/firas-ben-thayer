@@ -1,7 +1,7 @@
 # Hi there 👋  
 I'm Firas Ben Thayer!
 
-I'm a Master's student specializing in **AI & Automation** at Högskolan Väst. I have expertise in **Python**, **machine learning**, and **deep learning** and enjoy working on projects that solve real-world problems. I also contribute to **open source** and professional networking initiatives.
+I'm a Master's student specializing in **AI & Automation** at Högskolan Väst. I have expertise in **Python**, **machine learning**, and **deep learning** and enjoy working on projects that solve real-world problems.
 
 ---
 
